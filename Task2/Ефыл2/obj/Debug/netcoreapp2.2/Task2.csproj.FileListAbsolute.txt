@@ -1,0 +1,25 @@
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.deps.json
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.json
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.dev.json
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.dll
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.pdb
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.csprojAssemblyReference.cache
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.csproj.CoreCompileInputs.cache
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfoInputs.cache
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfo.cs
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.dll
+C:\Users\evdan\Desktop\СПП лабы\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.pdb
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.deps.json
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.json
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.dev.json
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.dll
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task2.pdb
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.csprojAssemblyReference.cache
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.csproj.CoreCompileInputs.cache
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfoInputs.cache
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfo.cs
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.dll
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.pdb
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task1.dll
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\bin\Debug\netcoreapp2.2\Task1.pdb
+C:\Users\evdan\Desktop\SPPLabs\Task2\Ефыл2\obj\Debug\netcoreapp2.2\Task2.csproj.CopyComplete

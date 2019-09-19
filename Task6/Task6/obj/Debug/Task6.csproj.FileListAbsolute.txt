@@ -1,0 +1,7 @@
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\evdan\Desktop\SPPLabs\Task6\Task6\obj\Debug\Task6.pdb

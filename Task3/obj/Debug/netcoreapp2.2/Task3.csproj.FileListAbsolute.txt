@@ -1,0 +1,11 @@
+C:\Users\evdan\Desktop\SPPLabs\Task3\bin\Debug\netcoreapp2.2\Task3.deps.json
+C:\Users\evdan\Desktop\SPPLabs\Task3\bin\Debug\netcoreapp2.2\Task3.runtimeconfig.json
+C:\Users\evdan\Desktop\SPPLabs\Task3\bin\Debug\netcoreapp2.2\Task3.runtimeconfig.dev.json
+C:\Users\evdan\Desktop\SPPLabs\Task3\bin\Debug\netcoreapp2.2\Task3.dll
+C:\Users\evdan\Desktop\SPPLabs\Task3\bin\Debug\netcoreapp2.2\Task3.pdb
+C:\Users\evdan\Desktop\SPPLabs\Task3\obj\Debug\netcoreapp2.2\Task3.csprojAssemblyReference.cache
+C:\Users\evdan\Desktop\SPPLabs\Task3\obj\Debug\netcoreapp2.2\Task3.csproj.CoreCompileInputs.cache
+C:\Users\evdan\Desktop\SPPLabs\Task3\obj\Debug\netcoreapp2.2\Task3.AssemblyInfoInputs.cache
+C:\Users\evdan\Desktop\SPPLabs\Task3\obj\Debug\netcoreapp2.2\Task3.AssemblyInfo.cs
+C:\Users\evdan\Desktop\SPPLabs\Task3\obj\Debug\netcoreapp2.2\Task3.dll
+C:\Users\evdan\Desktop\SPPLabs\Task3\obj\Debug\netcoreapp2.2\Task3.pdb

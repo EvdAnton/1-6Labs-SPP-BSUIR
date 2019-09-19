@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Task1">
+      <HintPath>..\..\Task1\Task1\bin\Debug\netcoreapp2.2\Task1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
